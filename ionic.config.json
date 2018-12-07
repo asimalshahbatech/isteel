@@ -1,0 +1,7 @@
+{
+  "name": "isteelApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
